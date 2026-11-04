@@ -12,6 +12,11 @@
 6. Выключение звукового сигнала
 7. Увеличение количества строк прокрутки на 10000
 
+## Как установить
+
+1. Введи в терминал команду ``git clone https://github.com/kirieshka228-govno/my-kitty-config.git ~/.config/kitty`` (если git выдаёт ошибку то надо перед этим удалить папку kitty)
+2. Перезапусти терминал
+
 ## Скриншоты
 
 <img width="1333" height="949" alt="изображение" src="https://github.com/user-attachments/assets/1e73d82c-48bf-400b-9ea2-76717cce34d8" />
