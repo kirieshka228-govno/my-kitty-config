@@ -19,4 +19,8 @@
 
 ## Скриншоты
 
-<img width="1333" height="949" alt="изображение" src="https://github.com/user-attachments/assets/1e73d82c-48bf-400b-9ea2-76717cce34d8" />
+<img width="1200" height="952" src="https://github.com/user-attachments/assets/6660637f-d18f-4626-bffa-0b3dfca14a09" />
+
+
+
+Конфиг fastfetch как на скриншоте [тут](https://github.com/kirieshka228-govno/my-fastfetch-config)
